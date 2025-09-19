@@ -1,0 +1,22 @@
+[
+  {
+    "id": "b1a698a3-af2a-4a4d-9ddf-0ef3c87c4c0e",
+    "nome": "Celular",
+    "descricao": "Iphone "
+  },
+  {
+    "id": "10581ef3-3add-41e6-a5e3-731f6e61385f",
+    "nome": "Camisa",
+    "descricao": "Corinthians"
+  },
+  {
+    "id": "7f00b07c-2ba8-433e-9d0a-16047fb258d5",
+    "nome": "Bola",
+    "descricao": "Futebol"
+  },
+  {
+    "id": "0ae46650-706c-4355-ad23-c04a67c7d6a9",
+    "nome": "Teclado",
+    "descricao": "Gamer"
+  }
+]
